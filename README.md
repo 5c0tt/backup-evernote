@@ -3,7 +3,7 @@ Scott Haneda | [@cometbus](https://twitter.com/cometbus)
 
 # Backup Evernote
 
-AppleScript that backup of Evernote on the Macintosh.  The general principal is to launch the app, find all notes, and export those notes with the "maintain tags" option selected.
+These files will make a backup of Evernote on the Macintosh.  The general principal is to launch the app, find all notes, and export those notes with the "maintain tags" option selected.
 
 Evernote has no feature to maintain the notebooks settings, and I am sure there are other areas in which you lose some meta data.
 
@@ -25,4 +25,5 @@ I am adding source.txt which is the raw AppleScript Source.  The files in this r
 2. backup Evernote.app
 3. backup Evernote.scpt
 4. source.txt
-5. 
+
+If you decide to use this and made changes, make sure to open the file *backup Evernote.scpt*, save that, then export that as *backup Evernote.app*, and finally copy and paste everything out of the *backup Evernote.scpt* file and paste it into the *source.txt* file.
