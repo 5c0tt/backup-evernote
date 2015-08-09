@@ -1,11 +1,10 @@
--- Last modified on: 08.03.2015 — 08:13:56 PM -0700 by Scott
 -- PURPOSE: Export all notes in Evernote to an ENEX file so that
 
 -- Change the path below to the location you want the notes to be exported
 set filename to (do shell script "date '+%Y-%m-%d-%H.%M.%S'") & (".export.enex")
 
 -- Get the path the Application Support and then append the backup folder
-set p to POSIX path of (path to documents folder from user domain) & "Evernote-Backups/"
+set p to POSIX path of (path to documents folder from user domain) & "Backups/Evernote-Backups/"
 
 -- If the folder is not there, make it for the user, this fails gracefully 
 -- if the folder is there
