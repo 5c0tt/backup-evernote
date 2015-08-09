@@ -1,5 +1,5 @@
-08.03.2015 — 07:04:45 PM -0700
-Scott Haneda | [@cometbus](https://twitter.com/cometbus)
+08.03.2015 — 07:04:45 PM -0700  
+Scott Haneda [@scotthaneda](https://twitter.com/scotthaneda)
 
 # Backup Evernote
 
