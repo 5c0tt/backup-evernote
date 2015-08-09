@@ -14,7 +14,7 @@ Also keep in mind, these are AppleScript files, which I have no idea what github
 # File locations and notes
 Without modification of this script, your backups will be put into ~/Documents in your home folder in a folder called "Evernote-Backups".  The final path is:
 
-    /Users/$USER/Documents/Evernote-Backups/YYYY-MM-DD-HH.MM.SS.export.enex.gz
+    /Users/$USER/Documents/Backups/Evernote-Backups/YYYY-MM-DD-HH.MM.SS.export.enex.gz
 
 There will be a short time where the file will just be a date stamped export that is a large .export.enex file, which is then gzipped up and the original non compressed file will ultimately be deleted.
 
